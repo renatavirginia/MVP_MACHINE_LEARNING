@@ -1,4 +1,4 @@
-# MVP - Otimização de Preços no Varejo com Machine Learning
+# MVP - Otimização de Preços no Varejo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatavirginia/MVP_MACHINE_LEARNING_ANALYTICS/blob/master/MVP_Otimizacao_de_precos.ipynb)
 
